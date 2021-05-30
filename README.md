@@ -1,6 +1,6 @@
 ## COVID PNEUMONIA NORMAL Predicton 
 
-### Download the Model from [here](https://drive.google.com/drive/folders/1-04jL5oaxp4HvIGkBj5W3R8XL4FjT_Sa?usp=sharing) & unzip it and move it to Model folder 
+### Download the Model from [here](https://drive.google.com/file/d/1QlLlTZxyzvwJ_Z7-mXQXDQFosX8aRrXB/view?usp=sharing) & unzip it and move it to Model folder 
 
 ### Install requirements 
 ```
