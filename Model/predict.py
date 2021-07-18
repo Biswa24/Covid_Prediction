@@ -24,6 +24,9 @@ def predict( WIDTH = WIDTH, HEIGHT = HEIGHT):
 	x_test = x_test.reshape(x_test.shape[0], x_test.shape[1], x_test.shape[2], 1)
 	
 	prediction = model.predict(x_test)
+	print(prediction
+	
+	)
 	data = []
 
 	labels = ['covid','pneumonia', 'normal']
